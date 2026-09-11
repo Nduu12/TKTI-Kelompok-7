@@ -299,7 +299,7 @@ h3,
 .block-intro p{
   font-size:16px;
   color:#3a4a3d;
-  max-width:68ch;
+  max-width:100%;
 }
 
 
