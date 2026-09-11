@@ -949,15 +949,15 @@ tbody tr.highlight td{
 
   font-size:clamp(2.1rem,3.9vw,3rem);
 
-  max-width:20ch;
+  max-width:60ch;
 
-  text-align:left;
+  text-align:justify;
 }
 
 .verdict .lede{
   color:#cfe0d0;
 
-  max-width:60ch;
+  max-width:100%;
 
   margin-top:18px;
 
